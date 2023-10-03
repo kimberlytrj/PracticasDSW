@@ -1,0 +1,63 @@
+*{  /*ESTILO PARA TODA LA PAGINA*/
+    margin: .2%;    /*MARGEN PARA CONTENIDO DE LA PAGINA*/
+}
+
+header{
+    height: 11em;   /*ALTURA*/
+    background: rgb(123, 255, 82);  /*FONDO DE COLOR*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+
+nav{
+    height: 5em; /*ALTURA*/
+    background: rgb(179, 255, 176); /*FONDO DE COLOR*/
+    margin-top: 3%; /*MARGEN DE ESPACIO HACIA ARRIBA*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+
+#cont{
+    display: flex;  /*ESTILO DE CONTENEDOR FLEXIBLE*/
+    height: 38em;   /*ALTURA*/
+    margin: 1%;     /*MARGIN DE CONTENEDOR */
+
+}
+
+aside{
+    background: rgb(123, 255, 82);  /*FONDO DE COLOR*/
+    width: 50%;     /*ANCHURA*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+
+section{
+    background: rgb(123, 255, 82);  /*FONDO DE COLOR*/
+    width: 50%; /*ANCHURA*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+
+article{
+    background: rgb(179, 255, 176); /*FONDO DE COLOR*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    width: 49em;    /*ANCHURA*/
+    height: 9em;    /*ALTURA*/
+    margin-top: 13%;    /*MARGEN DE ESPACIO HACIA ARRIBA*/
+    margin-left: 3%;    /*MARGEN DE ESPACIO HACIA IZQ*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+
+footer{
+    height: 6em;    /*ALTURA*/
+    border-style: solid;    /*ESTILO DE BORDE*/
+    border-color: rgb(189, 189, 189);   /*COLOR DE BORDE*/
+    background: rgb(123, 255, 82);  /*FONDO DE COLOR*/
+    border-radius: 10px;    /*RADIO DE BORDE PARA REDONDEAR ESQUINAS*/
+}
+/*KIMBERLY JAZMIN TREJO ESTRADA 372
