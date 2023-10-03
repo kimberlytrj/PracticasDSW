@@ -1,0 +1,69 @@
+*{box-sizing:border-box;}
+		.contenedor-1,.contenedor-2{
+			width:1800px;
+			margin:40px;
+		}
+		button[class*="caja-"]{
+			width:300px;
+			height:60px;
+			padding:20px;
+			border:1px solid #CCC;
+		
+			background-color:#e92b2bd3;
+			margin:20px;
+
+			text-align:center;
+            text-transform:uppercase;
+
+			display:inline-block;
+            font-size:x-large;
+            font-family:Verdana, Geneva, Tahoma, sans-serif
+		}
+
+        header{
+            background-color: red;
+        }
+
+        em{
+            font-weight:900;
+
+        }
+
+        div[class*="caja-"]{
+			width:300px;
+			height:280px;
+			padding:10px;
+			border:1px solid #000;
+			/*border-radius:10px;*/
+			background-color:#ccc;
+			margin:20px;
+
+			text-align:center;
+
+			display:inline-block;
+		}
+
+        #centro{
+            border-style:outset;
+            border-color: red;
+            border-radius: .5em;
+        }
+
+        body{
+            background-color: #CCC;
+            align-content: center;
+        }
+
+        footer{
+            background-color: #fff;
+        }
+
+        .contenedor-1 .caja-1{box-shadow:-2px -2px #000;}
+		.contenedor-1 .caja-2{box-shadow:-2px -2px 5px #000 ;}
+		.contenedor-1 .caja-3{box-shadow:-2px -2px 0 2px #000;}
+
+        .contenedor-2 .caja-1{box-shadow:2px 2px 5px #000;}
+		.contenedor-2 .caja-2{box-shadow:2px 2px 5px #000 ;}
+		.contenedor-2 .caja-3{box-shadow:2px 2px 5px #000;}
+
+/*KIMBERLY JAZMIN TREJO ESTRADA 372
