@@ -1,0 +1,53 @@
+header, nav, footer{
+    width: 70%;
+    height: 50px;
+    background-color: rgb(161, 152, 141);
+    margin: .5em;
+    border-radius: 10px;
+    text-align: center;
+}
+
+div{
+    width: 70%;
+    height: 350px;
+    display: flex;
+    margin: .5em;
+}
+
+section{
+    width: 65%;
+    height: 350px;
+    background-color: rgb(161, 152, 141);
+    margin: .5em;
+    border-radius: 10px;
+    margin-left: 2em;
+}
+
+aside{
+    width: 30%;
+    height: 350px;
+    background-color: rgb(161, 152, 141);
+    margin-top: 8px;
+    border-radius: 10px;
+}
+
+article{
+    width: 90%;
+    height: 35px;
+    background-color: rgb(204, 204, 204);
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+article#as{
+    width: 40%;
+    height: 120px;
+    border-radius: 0%;
+    background-color: rgb(204, 204, 204);
+    margin-top: 6%;
+}
+
+footer{
+    margin-top:  15px;
+}
+/*KIMBERLY JAZMIN TREJO ESTRADA 372
